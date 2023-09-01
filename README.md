@@ -5,4 +5,4 @@
 
 ### License
 Copyright &copy; 2023 Dakshitha. All Right Reserved.<br>
-This project is license under the [MIT License](License.txt)
+This project is license under the [WTFPL License](License.txt)
